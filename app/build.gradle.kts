@@ -7,12 +7,12 @@ plugins {
 
 android {
     namespace = "com.llicorp.memosontology"
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.llicorp.memosontology"
         minSdk = 26
-        targetSdk = 36
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
